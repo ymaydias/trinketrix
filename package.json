@@ -1,0 +1,23 @@
+{
+  "name": "trinketrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymaydias/trinketrix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymaydias/trinketrix/issues"
+  },
+  "homepage": "https://github.com/ymaydias/trinketrix#readme",
+  "dependencies": {
+    "firebase": "^12.3.0"
+  }
+}
